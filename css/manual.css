@@ -16,7 +16,7 @@ round_image{
 footer{
   background-color: #3B3833;
 }
-round_image{
+.round_image{
   border: 7;
   border-color: #271D11;
   border-radius: 150;
