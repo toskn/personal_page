@@ -1,0 +1,26 @@
+body{
+ background-color: #212426;
+}
+h1{
+color: #848D93;
+margin: 10;
+margin-left: 20;
+}
+p{
+  color: #848D93;
+}
+round_image{
+  margin-top: 50;
+  margin-left: 20;
+}
+footer{
+  background-color: #3B3833;
+}
+round_image{
+  border: 7;
+  border-color: #271D11;
+  border-radius: 150;
+  margin-left: 40;
+  margin-top: 60;
+  margin-bottom: 20;
+}
